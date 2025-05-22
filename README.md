@@ -174,8 +174,6 @@ Make sure all required libraries (`numpy`, `pandas`) are installed.
 ## 👨‍💻 Author
 
 **Muqnit Ur Rehman**  
-**Roll No:** BDSF23M039
-
 ---
 
 ## 📝 License
